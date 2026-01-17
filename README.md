@@ -1,3 +1,4 @@
+![Profile Banner](https://raw.githubusercontent.com/Reiichoro/reiichoro.github.io/refs/heads/main/assets/images/WhoAmI.webp)
 # はやさかれいいちろう
 
 > Independent developer · Pragmatic architecture · Engineering trade-offs
